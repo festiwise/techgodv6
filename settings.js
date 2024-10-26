@@ -11,15 +11,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916378704507"
-global.ownername = "AASHISH"
+global.ownernomer = "233550928795"
+global.ownername = "YOUNGSTEEZ"
 global.ytname = "YT: SHADOW STARCORE"
-global.socialm = "GitHub: dark-tech-zone"
+global.socialm = "GitHub: festiwise"
 global.location = "India, Delhi, city"
 
-global.ownernumber = '916378704507'  //creator number
-global.ownername = 'AASHISH' //owner name
-global.botname = 'AASHISH ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '233550928795'  //creator number
+global.ownername = 'YOUNGSTEEZ' //owner name
+global.botname = 'YOUNGSTEEZ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -33,7 +33,7 @@ global.wm = "Tech God Bot Inc."
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['*']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -42,7 +42,7 @@ global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
